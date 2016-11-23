@@ -1,0 +1,11 @@
+branch-defaults:
+  default:
+    environment: teamiota-dev
+    group_suffix: null
+global:
+  application_name: teamiota
+  default_ec2_keyname: CS496
+  default_platform: python3.4
+  default_region: us-west-2
+  profile: eb-cli
+  sc: null
